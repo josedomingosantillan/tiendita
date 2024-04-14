@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI PRENDAMEX\\source\\repos\\tiendita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36667C23-95E5-4A63-A4CE-7E0935DD638B}|tiendita.csproj|c:\\users\\msi prendamex\\source\\repos\\tiendita\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36667C23-95E5-4A63-A4CE-7E0935DD638B}|tiendita.csproj|solutionrelative:consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36667C23-95E5-4A63-A4CE-7E0935DD638B}|tiendita.csproj|c:\\users\\msi prendamex\\source\\repos\\tiendita\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36667C23-95E5-4A63-A4CE-7E0935DD638B}|tiendita.csproj|solutionrelative:consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "consultar.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PRENDAMEX\\source\\repos\\tiendita\\consultar.cs",
+              "RelativeDocumentMoniker": "consultar.cs",
+              "ToolTip": "C:\\Users\\MSI PRENDAMEX\\source\\repos\\tiendita\\consultar.cs",
+              "RelativeToolTip": "consultar.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAASwFgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:31:09.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consultar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MSI PRENDAMEX\\source\\repos\\tiendita\\consultar.cs",
+              "RelativeDocumentMoniker": "consultar.cs",
+              "ToolTip": "C:\\Users\\MSI PRENDAMEX\\source\\repos\\tiendita\\consultar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "consultar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:36:19.801Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
